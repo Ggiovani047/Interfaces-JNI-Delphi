@@ -76,8 +76,6 @@ type
      function getPURPOSE_DECRYPT: Integer; cdecl;
    end;
 
-
-   sdsadsfdfs
    JKeyProperties = interface(JObject)
      ['{B678576C-8911-4677-8F41-B9DBA70223F3}']
    end;
